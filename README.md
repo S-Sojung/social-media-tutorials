@@ -7,4 +7,4 @@
 - All scripts are probably Streamlit apps
 
 ---
-stchat 참고
+stchatbot 참고 : https://www.youtube.com/watch?v=6fs80o7Xm4I 
